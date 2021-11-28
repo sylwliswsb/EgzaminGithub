@@ -1,0 +1,66 @@
+commit 09fb786b56ad48095d9916ff3b9749a140fc7969
+Merge: 5bc371d 75e4595
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:45:46 2021 +0100
+
+    Merge branch 'main' of https://github.com/sylwliswsb/EgzaminGithub
+
+commit 5bc371dbd257cae7a5c4021a6f8e7b20c0a694d0
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:42:50 2021 +0100
+
+    gitlog
+
+commit 75e45954b2d63db5771572aa2e8c1e0e8bab7787
+Merge: 5dc94ae 70717d0
+Author: sylwliswsb <91017386+sylwliswsb@users.noreply.github.com>
+Date:   Sun Nov 28 09:35:10 2021 +0100
+
+    Merge pull request #2 from sylwliswsb/playoff
+    
+    Playoff
+
+commit 70717d049a97ae01af40cb4d96be1de2430b971d
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:33:53 2021 +0100
+
+    Spotkania finalowe branzy
+
+commit 617dcc0e0a6494a7b8c868bb3a49d22f263bc281
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:33:08 2021 +0100
+
+    Spotkania polfinalowe branzy
+
+commit 5dc94aece9e318a6d467f7765de7d1ac2e949e21
+Merge: f60f1ed 7210064
+Author: sylwliswsb <91017386+sylwliswsb@users.noreply.github.com>
+Date:   Sun Nov 28 09:30:54 2021 +0100
+
+    Merge pull request #1 from sylwliswsb/buy_nothing_day
+    
+    Buy nothing day
+
+commit 7210064c7a5a3439b7bbff725e6b5d756f77f480
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:29:00 2021 +0100
+
+    ob chody dnia bez zakupow
+
+commit 5888cd13152d47872144384a91aaf4d3d3799edf
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:28:07 2021 +0100
+
+    Opis dnia bez zakupow
+
+commit a6358b391ac65f097b5f8e6f77ac46ab4ac59b6b
+Author: Sylwia Lisak <lisaksylwia@gmail.com>
+Date:   Sun Nov 28 09:27:03 2021 +0100
+
+    Dzien bez zakupow
+
+commit f60f1ed0d0b8632dee2d10dfe0e46930da5e582a
+Author: sylwliswsb <91017386+sylwliswsb@users.noreply.github.com>
+Date:   Sun Nov 28 09:10:19 2021 +0100
+
+    Initial commit
